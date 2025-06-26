@@ -4,4 +4,4 @@ Retrieval Augmented Generation (RAG) provides a critical segue between LLM retra
 
 <p align="center">
 ![image](https://github.com/user-attachments/assets/19cc6c3d-7138-4780-857e-68bab0983dec)
-<\p>
+</p>
